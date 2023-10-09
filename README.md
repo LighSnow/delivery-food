@@ -18,7 +18,7 @@ npm run build
 ### Description
 The first part of testing is in the master branch.
 
-The second part of the testing is in the part-2 branch
+The second part of the testing is in the part-2 branch in part-2.js file
 
 To log in to the system, you need to enter any username and password. If you leave the fields empty, it will result in an error.
 
