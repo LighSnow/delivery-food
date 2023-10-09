@@ -1,0 +1,24 @@
+@import url('utils/_normalize.scss');
+@import url('utils/_container.scss');
+@import url('utils/_button.scss');
+@import url('utils/_section-heading.scss');
+@import url('utils/_modal.scss');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  padding-top: 44px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a,
+button {
+  cursor: pointer;
+  color: inherit;
+}
